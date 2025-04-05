@@ -1,16 +1,41 @@
-# pomodoro
+# ⏰ Pomodoro - Flutter
 
-A new Flutter project.
+Um relógio pomodoro simples desenvolvido em Flutter.
 
-## Getting Started
+## 📌 Tecnologias Utilizadas
 
-This project is a starting point for a Flutter application.
+- Flutter
+- Dart
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Como Executar
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. **Clone o repositório:**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   ```sh
+   git clone https://github.com/erizoka/pomodoro.git
+   cd pomodoro
+   ```
+
+2. **Instale as dependências:**
+
+   ```sh
+   flutter pub get
+   ```
+
+3. **Execute o app:**
+   ```sh
+   flutter run
+   ```
+
+## 🎮 Funcionalidades
+
+- Controle de temporizador com opção de pausa e reset.
+- Interface simples e intuitiva.
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
+
+Desenvolvido por [Erica Esteves](https://github.com/erizoka). 🚀
